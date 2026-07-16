@@ -2,6 +2,12 @@
 
 A lightweight Android system monitor showing live CPU, RAM, GPU, and network stats via a home-screen widget and an optional floating usage dock.
 
+## Download
+
+**[⬇ Download SystemMonitor.apk](https://github.com/Dreamucxe/system_monitor/releases/latest/download/SystemMonitor.apk)** (latest release)
+
+Install on Android and allow installation from unknown sources. Grant overlay permission for the floating dock.
+
 ## Features
 
 - Live **CPU / RAM / GPU / network** readouts
