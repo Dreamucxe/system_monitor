@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+out/
+*.apk
+*.idsig
+*.dex
+*.class
+
+# Keystores / secrets
+*.keystore
+*.jks
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
