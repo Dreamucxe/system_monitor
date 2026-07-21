@@ -8,6 +8,14 @@ A lightweight Android system monitor showing live CPU, RAM, GPU, and network sta
 
 Install on Android and allow installation from unknown sources. Grant overlay permission for the floating dock.
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/screenshot-1.png" width="30%" alt="Live CPU, RAM, network, battery, and temperature stats" />
+  <img src="docs/screenshots/screenshot-2.png" width="30%" alt="Storage, refresh rate, uptime, and 24-hour RAM history" />
+  <img src="docs/screenshots/screenshot-3.png" width="30%" alt="Floating dock configuration and full device info" />
+</p>
+
 ## Features
 
 - Live **CPU / RAM / GPU / network** readouts
